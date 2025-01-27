@@ -3,7 +3,7 @@
 
 ## GraphRAG Official Repository and Third-Party Implementations
 
-- [Get Started](https://microsoft.github.io/graphrag/posts/get_started/)  
+- [Get Started](https://microsoft.github.io/graphrag/get_started/)  
   - [GraphRAG Accelerator](https://github.com/azure-samples/graphrag-accelerator)
   - [Visualizing Relationships with NetworkX](https://github.com/microsoft/graphrag/blob/main/graphrag/index/graph/extractors/graph/graph_extractor.py)
   - [GitHub Repository](https://github.com/microsoft/graphrag)
