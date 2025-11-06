@@ -1,5 +1,5 @@
 
-# 🥦GraphRAG Playground w/ Azure OpenAI
+## 🥦GraphRAG Playground w/ Azure OpenAI
 
 - Documentation: [Get Started](https://microsoft.github.io/graphrag/get_started/)  
   - [GraphRAG Accelerator](https://github.com/azure-samples/graphrag-accelerator)
@@ -23,7 +23,7 @@
   - [Implementing "From Local to Global" GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
   - [GraphRAG Implementation with LlamaIndex](https://developers.llamaindex.ai/python/examples/cookbooks/graphrag_v1/): GraphRAG v1
   - [LazyGraphRAG in LangChain](https://datastax.github.io/graph-rag/examples/lazy-graph-rag/)
-- Web Application (Backup under `app` directory)
+- Web Application (Backup under `docs/app` directory)
   - [GraphRAG Visualizer](https://noworneverev.github.io/graphrag-visualizer/)
   - [GraphRAG API Server](https://github.com/noworneverev/graphrag-api)
 
@@ -168,7 +168,7 @@ style O fill:#e1ffe1
 
 #### Initialize your repository
 
-This will create two files: `.env` and `settings.yaml`. See samples in `.env.sample` and `settings.yaml.sample`.
+This will create two files: `.env` and `settings.yaml`. See samples in `.env.sample` and `settings.sample.yaml`.
 
 ```bash
 graphrag init
@@ -215,8 +215,6 @@ models:
 #### rank
 
 - r(G) = n - c, where n is the number of vertices (nodes) in the graph and c is the number of connected components.
-
----
 
 ## Reference
 
