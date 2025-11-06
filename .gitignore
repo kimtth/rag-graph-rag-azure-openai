@@ -224,3 +224,9 @@ lawtest/settings.yaml
 /graphrag-api/artifacts/ragtest
 /graphrag-api/artifacts/lancedb
 lawtest/gg.graphml
+/.old
+settings.yaml
+test.py
+/cache
+/logs
+/output/lancedb
